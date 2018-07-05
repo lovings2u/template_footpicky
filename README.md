@@ -1,24 +1,5 @@
-# README
+# Footpicky
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### 20180705
+- '/': 메인페이지
+> (CSS오류 있는데 잡을 수 없음)
